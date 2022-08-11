@@ -1,0 +1,83 @@
+CODIGO_SERVICO;SERVICO
+101;Confecção de ficha cadastral
+102;Renovação de ficha cadastral
+103;Consultas a serviços de proteção ao crédito
+201;Comum, para débito, saque e consultas
+202;Débito, saque e garantia de cheque-anuidade do contrato
+203;Débito, saque e garantia de cheque-confecção do cartão
+204;Cartão multiplo-nacional-anuidade do contrato
+205;Cartão multiplo-nacional-confecção do cartão
+206;Cartão multiplo-internacional-anuidade do contrato
+207;Cartão multiplo-internacional-confecção do cartão
+208;Cartão multiplo adicional-nacional-anuidade do contrato
+209;Cartão multiplo adicional-nacional-confecção do cartão
+210;Cartão multiplo adicional-intern.-anuidade do contrato
+211;Cartão multiplo adicional-Intern.-confecção do cartão
+301;Talão-10 folhas
+302;Talão-20 folhas (segundo talão no mês)
+303;Cheque administrativo
+304;Cheque avulso
+305;Cheque devolvido por insuficiência de fundos
+306;Oposição/sustação de pagamento de cheque
+308;Inclusão no Cadastro de Cheques sem Fundo
+309;Exclusão do Cadastro de Cheques sem Fundo
+310;Cobrança de cheque por compensação
+311;Cheque TB (Transferência Bancária sem CPMF)
+312;Cheque Administrativo com vl.igual ou superior a R$5.000,00 (vl.fx.+%)
+313;Cobrança de Cheque por compensação com Vl. = ou > R$ 5.000,00(Vl.fx+%)
+314;Cheque TB com valor igual ou superior R$ 5.000,00 (vl.fixo + %)
+401;Abertura de conta
+402;Manutenção de conta ativa
+403;Manutenção de conta inativa
+404;Adiant. a deposit., incl. excesso limite de ch. especial
+405;Concessão de cheque especial/conta garantida
+406;Renovação de cheque especial/conta garantida
+407;Débito autorizado em conta-corrente
+408;Banco domestico-conta principal (com limite de acessos)
+409;Banco doméstico-conta secundária (com limite de acessos)
+501;Saque em caixa automática externa/banco 24 horas
+502;Emissão de DOC C
+503;Emissão de DOC D
+504;Ordem de Pagamento
+505;Depósito em outra agência
+506;Transferência Eletrônica Disponível - TED
+601;Em terminal  eletrônico
+602;Por outros meios
+603;Cópias de microfilmes, microfichas ou assemelhados
+701;Entrada por borderô (listagem de titulos)
+702;Entrada por meio magnético
+703;Entrada sem registro - por boleto emitido pelo cliente
+704;Manutenção de título vencido
+705;Envio para protesto
+706;Sustação de protesto
+707;Devolução de título
+801;Abertura de crédito
+802;Renegociação de dívida
+803;Substituição de garantia
+804;Custódia de cheque pré-datado
+805;Rescisão Contratual (Quitação Antecipada)
+901;Segunda via de documento
+902;Ressarcimento de despesas-telefonema
+903;Ressarcimento de despesas-fax
+904;Envelopamento de documentos
+905;Pagamento de funcionários via relação
+906;Pagamento de funcionários via meio magnético
+1001;Exportação: Edição de Contrato de Câmbio
+1002;Exportação: Edição de Contrato de Câmbio via Internet
+1003;Exportação: Liquidação com Ordem de Pagamento
+1004;Exportação: Conferência de Documentos
+1005;Exportação: Câmbio Simplicado (todas as despesas do cliente no Banco)
+1006;Importação: Edição de Contrato de Câmbio
+1007;Importação: Emissão de Ordem de Pagamento
+1008;Importação: Demais Tarifas (Não incluem despesas no Exteior)
+1009;Importação: Câmbio Simplificado(Todas as despesas do cliente no Banco)
+1010;Financeiro -Ingresso de Recursos: Edição de Contrato de Câmbio
+1011;Financeiro-Ingresso de Recursos:Edição de Cont. de Câmbio Via Internet
+1012;Financeiro -Ingresso de Recursos: Liquidação com Ordem de pagamento
+1013;Financeiro - Ingresso de Recursos: Confecção de ROF
+1014;Financeiro - Ingresso de Recursos : Confecção de esquema de ROF
+1015;Financeiro - Ingresso de Recursos: Confecção de Cadastro no Cademp
+1016;Financeiro -Remessa de Recursos: Edição de Contrato de Câmbio
+1017;Financeiro-Remessa de Recursos: Edição de Cont. de Câmbio Via Internet
+1018;Financeiro - Remessa de Recursos: Emissão de Ordem de Pagamento
+1019;Financeiro - Remessa de Recursos: Alteração de ROF
